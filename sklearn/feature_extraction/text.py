@@ -18,7 +18,7 @@ from collections.abc import Mapping
 from functools import partial
 import numbers
 from operator import itemgetter
-import re
+import regex
 import unicodedata
 import warnings
 
